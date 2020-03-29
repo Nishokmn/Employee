@@ -1,0 +1,21 @@
+[{
+		"id": 100,
+		"employeename": "Ramesh kumar",
+		"firstName": "Ramesh",
+		"lastName": "kumar",
+		"email": "ramesh.kumar@cts.com",
+		"password": "ramesh123",
+		"phone": "9856412544",
+		"employeeStatus": 1
+	},
+	{
+		"id": 101,
+		"employeename": "Mukesh kumar",
+		"firstName": "Mukesh",
+		"lastName": "kumar",
+		"email": "mukesh.kumar@cts.com",
+		"password": "mukesh123",
+		"phone": "9821547512",
+		"employeeStatus": 1
+	}
+]
